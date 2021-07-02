@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/navbar-react-vs-js/static/css/main.fd451e1e.chunk.css",
+    "main.js": "/navbar-react-vs-js/static/js/main.abe282ee.chunk.js",
+    "main.js.map": "/navbar-react-vs-js/static/js/main.abe282ee.chunk.js.map",
+    "runtime-main.js": "/navbar-react-vs-js/static/js/runtime-main.3bded065.js",
+    "runtime-main.js.map": "/navbar-react-vs-js/static/js/runtime-main.3bded065.js.map",
+    "static/js/2.86f7bd84.chunk.js": "/navbar-react-vs-js/static/js/2.86f7bd84.chunk.js",
+    "static/js/2.86f7bd84.chunk.js.map": "/navbar-react-vs-js/static/js/2.86f7bd84.chunk.js.map",
+    "index.html": "/navbar-react-vs-js/index.html",
+    "static/css/main.fd451e1e.chunk.css.map": "/navbar-react-vs-js/static/css/main.fd451e1e.chunk.css.map",
+    "static/js/2.86f7bd84.chunk.js.LICENSE.txt": "/navbar-react-vs-js/static/js/2.86f7bd84.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3bded065.js",
+    "static/js/2.86f7bd84.chunk.js",
+    "static/css/main.fd451e1e.chunk.css",
+    "static/js/main.abe282ee.chunk.js"
+  ]
+}
